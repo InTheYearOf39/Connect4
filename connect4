@@ -4,7 +4,8 @@ import pygame
 import sys
 import math
 
-
+# perfect information since all players see each others moves.
+# sequential since on eplayer has to wait for the other player to make a move first.
 
 # Window Title
 pygame.init()
