@@ -10,6 +10,7 @@ import math
 # Window Title
 pygame.init()
 pygame.display.set_caption('Connect4 by Nkuraija Gary Matthew')
+pygame.display.set_caption('Connect4 by Nkuraija Gary Matthew')
 
 #set game icon background
 Resources = pygame.image.load("resources/connect4_background.png")
